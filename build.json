@@ -37,7 +37,8 @@
     "ProjectWithMultiTFMLib",
     "ExternAlias",
     "ProjectWithComplexAnalyzers",
-    "NetCore30Project"
+    "NetCore30Project",
+    "NetCore30ProjectGrpc"
   ],
   "CakeTestAssets": [
     "CakeProject"
